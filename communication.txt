@@ -1,4 +1,5 @@
 
+hello new 
 hii
 hello
 hey there it is demo of chat file
@@ -42,10 +43,6 @@ Good Morning..
 
 
 
-dvdfvdffewfdsvdsfdbfd
-
-
-
 
 
 
@@ -67,18 +64,7 @@ Dhruv U : Good Morning
 Dhruv U : Good Morning
 good morning
 Dhruv U : Good Morning 
-Hello good morning .:))
-
-
-
-
-
-
-
-
-
-
-
+Hello good morning .:)
 
 
 
@@ -103,3 +89,6 @@ Hello good morning .:))
 
 Fresh Morning to everyone......
 
+=======
+kundan
+>>>>>>> 02d5e00e11e24dc4e611ecd9614bda5d74f06dc3

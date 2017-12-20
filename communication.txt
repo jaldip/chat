@@ -16,16 +16,5 @@ Steps for PULL-PUSH
 ->Commit with message
 ->PULL
 ->PUSH
-
-
-
-
-
-
-
-
-
-
-
-
-
+good mrng
+Hello good morning .:))

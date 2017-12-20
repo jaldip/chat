@@ -1,6 +1,14 @@
-
-
 hello
 hey there it is demo of chat file
 hey there it is demo of chat file
 Dhruv U : Good Morning 
+Hello......
+hey there it is demo of chat file.
+hey there it is demo of chat file
+Dhruv U : Good Morning 
+Steps for PULL-PUSH
+->Edit File
+->Commit with message
+->PULL
+->PUSH
+

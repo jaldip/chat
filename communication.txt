@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 hello new 
-=======
+
 hii
 hello
 hey there it is demo of chat file
@@ -29,16 +29,4 @@ Steps for PULL-PUSH
 ->PUSH
 good mrng
 Hello good morning .:))
->>>>>>> 852701faa611d03b932f7aa27ec9d51fe0ff3351
-
-
-
-
-
-
-
-
-
-
-
 kundan

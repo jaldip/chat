@@ -5,6 +5,7 @@ Dhruv Upadhyay: --> Commit The Change
 Dhruv Upadhyay: --> PULL
 Dhruv Upadhyay: --> PUSH
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 =======
@@ -16,3 +17,11 @@ Mustaq : hi
 
 
 JACKY PANDYA:--> what is status of  form builder.???
+=======
+
+
+kundan : --> pull
+
+Mustaq : hi
+
+>>>>>>> 6ea0650e081b34d8345fa2be0c20522727d54430

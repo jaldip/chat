@@ -4,11 +4,8 @@ Dhruv Upadhyay: --> Change The File
 Dhruv Upadhyay: --> Commit The Change
 Dhruv Upadhyay: --> PULL
 Dhruv Upadhyay: --> PUSH
- HEAD
- HEAD
 
 
-=======
 Mustaq : hi
 
 
@@ -17,7 +14,7 @@ Mustaq : hi
 
 
 
-=======
+
 
 
 kundan : --> pull
@@ -33,3 +30,4 @@ hii on 30th line on kundan
 
 
 JACKY PANDYA:--> what is status of  form builder.???
+prakhar:its working on gui 

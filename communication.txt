@@ -1,6 +1,21 @@
+hellooo freinds
+
+
+
+Hello......
+hey there it is demo of chat file.
 hey there it is demo of chat file
+<<<<<<< HEAD
 <<<<<<< HEAD
 hiiii
 =======
 Dhruv U : Good Morning 
 >>>>>>> 0a8157883135caf47614e23cad8fa06ac930bc92
+=======
+Dhruv U : Good Morning 
+Steps for PULL-PUSH
+->Edit File
+->Commit with message
+->PULL
+->PUSH
+>>>>>>> beb6517d67bdefd3abe5fe4ac20f95ff9d91068e

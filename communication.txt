@@ -1,5 +1,5 @@
 
-hello new 
+hello new
 hii
 hello
 hey there it is demo of chat file
@@ -87,8 +87,13 @@ Hello good morning .:)
 
 
 
-Fresh Morning to everyone......
-
-=======
+Fresh Morning to everyone.....
 kundan
->>>>>>> 02d5e00e11e24dc4e611ecd9614bda5d74f06dc3
+Steps for PULL-PUSH
+->Edit File
+->Commit with message
+->PULL
+->PUSH
+good mrng
+Hello good morning .:))
+kundan

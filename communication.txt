@@ -20,26 +20,7 @@ hey there it is demo of chat file
 hiiii
 Dhruv U : Good Morning 
 Dhruv U : Good Morning
-
-
-
 good morning
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Dhruv U : Good Morning 
 Steps for PULL-PUSH
 ->Edit File

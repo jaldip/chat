@@ -1,3 +1,4 @@
+hii
 hello
 hey there it is demo of chat file
 Dhruv U : Good Morning 
@@ -5,27 +6,20 @@ hellooo freinds
 hiiiiiiiiii
 Hello......
 hey there it is demo of chat file.
+
 hiiii
 Dhruv U : Good Morning 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+hey there it is demo of chat file.
+hiiii
+Dhruv U : Good Morning 
+Dhruv U : Good Morning
+Dhruv U : Good Morning 
+Hello good morning .:))
+hey there it is demo of chat file
+hiiii
+Dhruv U : Good Morning 
+Dhruv U : Good Morning
 
 Dhruv U : Good Morning 
 
@@ -37,24 +31,7 @@ Steps for PULL-PUSH
 
 Hello good morning .:))
 
-
-
-
-
-
-
-
-
-
 good mrng
-
-
-
-
-
-
-
 Hello good morning .:))
 
 Hello good morning .:))
-

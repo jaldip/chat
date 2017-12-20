@@ -1,3 +1,4 @@
+hii
 hello
 hey there it is demo of chat file
 hey there it is demo of chat file
@@ -6,10 +7,16 @@ hellooo freinds
 hiiiiiiiiii
 Hello......
 hey there it is demo of chat file.
+hey there it is demo of chat file.
+hiiii
+Dhruv U : Good Morning 
+Dhruv U : Good Morning
+Dhruv U : Good Morning 
+Hello good morning .:))
 hey there it is demo of chat file
 hiiii
 Dhruv U : Good Morning 
-Dhruv U : Good Morning 
+Dhruv U : Good Morning
 
 
 
@@ -27,13 +34,20 @@ Dhruv U : Good Morning
 
 
 
+
+
+
+<<<<<<< HEAD
 2c2ade0af3e36736e53ec53b03fea3524f7cfbe5
 =======
+=======
+>>>>>>> ccc7eb848a5dcbc29542e34512cb246353809ffc
 Dhruv U : Good Morning 
 Steps for PULL-PUSH
 ->Edit File
 ->Commit with message
 ->PULL
+<<<<<<< HEAD
 -> HEAD
 
 ======= beb6517d67bdefd3abe5fe4ac20f95ff9d91068e HEAD
@@ -54,3 +68,8 @@ dhire dhire kaam kro
 Hello good morning .:))
 2c2ade0af3e36736e53ec53b03fea3524f7cfbe5
 e274c8be71a019f79fd54e3be761568c47983216
+=======
+->PUSH
+good mrng
+Hello good morning .:))
+>>>>>>> ccc7eb848a5dcbc29542e34512cb246353809ffc

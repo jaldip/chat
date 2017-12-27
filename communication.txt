@@ -1,3 +1,42 @@
+hello new
+hii
+hello
+hey there it is demo of chat file
+hey there it is demo of chat file
+Dhruv U : Good Morning 
+hellooo freinds
+hiiiiiiiiii
+Hello......
+hey there it is demo of chat file.
+hiiii
+Dhruv U : Good Morning
+Dhruv U : Good Morning
+Dhruv U : Good Morning 
+Good Morning..
+hey there it is demo of chat file.
+hiiii
+Dhruv U : Good Morning 
+Dhruv U : Good Morning
+Dhruv U : Good Morning 
+Hello good morning .:))
+hey there it is demo of chat file
+hiiii
+Dhruv U : Good Morning 
+Dhruv U : Good Morning
+good morning
+Dhruv U : Good Morning 
+Hello good morning .:)
+Fresh Morning to everyone.....
+kundan
+Steps for PULL-PUSH
+->Edit File
+->Commit with message
+->PULL
+->PUSH
+good mrng
+Hello good morning .:))
+kundan
+dhruv dharaiya
 Dhruv Upadhyay: Start Work Agian...
 Dhruv Upadhyay: Ladder Of PULL-PUSH
 Dhruv Upadhyay: --> Change The File
@@ -10,5 +49,16 @@ Mustaq : hi
 hii on 30th line on kundan
 JACKY PANDYA:--> what is status of  form builder.???
 prakhar:its working on gui 
+<<<<<<< HEAD
 Mohit Prajapati : --> Good after noon
 Mustaq :Good After Noon 2 all
+=======
+prakhar:ok
+Mohit Prajapati : --> Good after noon
+JACKY PANDYA:--> what is status of  form builder.???
+helllooooo jii....................
+
+
+
+ewoufgjreoikjdopsajdfiusbhvnojbndsciujshnyudshbvsyudhgasbdycudshvb dgsiuhvjbsnyuchsdbfuhdsvbuhdfj
+>>>>>>> 508ca31afd87bed0e854dee84b2d270477acb5c6

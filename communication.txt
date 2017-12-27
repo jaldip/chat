@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 hello new
 hii
 hello
@@ -38,10 +37,6 @@ good mrng
 Hello good morning .:))
 kundan
 dhruv dharaiya
-=======
-<<<<<<< HEAD
-dfkjbdecvkjdsnvckjs ncxkj ,c
-=======
 Dhruv Upadhyay: Start Work Agian...
 Dhruv Upadhyay: Ladder Of PULL-PUSH
 Dhruv Upadhyay: --> Change The File
@@ -56,20 +51,5 @@ JACKY PANDYA:--> what is status of  form builder.???
 prakhar:its working on gui 
 prakhar:ok
 Mohit Prajapati : --> Good after noon
-
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 6ea0650e081b34d8345fa2be0c20522727d54430
->>>>>>> 505e1d41f2c4641baf86a958029874b01e0b8caa
-=======
->>>>>>> 179669d9cb8b06d891c6ecd1a4d1c68e6b6de1ae
-<<<<<<< HEAD
-
-dnsjcndkvndfkjvndfkjvnkjn
-=======
 JACKY PANDYA:--> what is status of  form builder.???
->>>>>>> 179669d9cb8b06d891c6ecd1a4d1c68e6b6de1ae
-=======
->>>>>>> 3ef5dccaef90a38fded038002e2f75b3edadaa77
-
->>>>>>> de2993cf08f2862307d4141fa306f8911d2d765e
+helllooooo jii....................
